@@ -1,0 +1,7 @@
+{
+  "name": "CampusLink - College Relationship & Connection Network",
+  "description": "Discover, visualize, and manage relationships within your college community through an interactive social graph, privacy-first controls, and connection discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
